@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Some key skills and fields of experience include:**
+
+*Java*
+*Python*
+*C*
+*JavaScript*
+*Linux*
+*Networking*
+
+_These are some things I **really** enjoy learning... I just need to dedicate more time to them_
